@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pluggable type="plugin">
+	<name>Comments Toggle</name>
+	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
+	<author url="http://konzertheld.de/">Owen Winkler</author>
+	<version>1.0</version>
+	<description><![CDATA[Toggle whether comments are allowed on many posts at once.]]></description>
+	<copyright>2011</copyright>
+</pluggable>
+ 
